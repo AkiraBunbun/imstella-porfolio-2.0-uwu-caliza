@@ -6,8 +6,8 @@ date: '2023-07-20'
 client: Open service
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  because It took a long time :), but the time spent in this project was worth
+  it.
 featuredImage:
   type: ImageBlock
   url: /images/image (1).webp
