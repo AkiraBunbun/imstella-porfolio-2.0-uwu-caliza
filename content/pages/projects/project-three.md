@@ -3,7 +3,7 @@ type: ProjectLayout
 title: 'Instant Key Stroking '
 colors: colors-a
 date: '2023-11-22'
-client: Awesome client
+client: My Awesome Teacher
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead
