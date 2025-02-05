@@ -4,7 +4,12 @@ title: 'Instant Key Stroking '
 colors: colors-a
 date: '2023-11-22'
 client: My Awesome Teacher
-description: 'With only 10 hours left until I had to expose '
+description: >-
+  With only 10 hours left until I had to expose in class I had to think out of
+  the box in order to make presentations more faster, so instead of using only
+  powerpoint I decided to create my own presentation app which creates pages
+  embedables into powerpoint making me go even faster, after spending 6 hours
+  making this.
 featuredImage:
   type: ImageBlock
   url: /images/image (2).webp
