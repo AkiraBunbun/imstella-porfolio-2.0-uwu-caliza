@@ -6,7 +6,10 @@ date: '2021-10-15'
 client: Local shop
 description: >-
   The best way to have free time is doing the work before you should do it,
-  sadly inside of a shop its something not possible, right?. That's wrong
+  sadly inside of a shop its something not possible, right?. That's wrong!, you
+  can advance work anywhere if you know how to, with this program I helped a
+  local shop to prepare orders before people came for it by ordering them online
+  but paying and going for it physically.
 featuredImage:
   type: ImageBlock
   url: /images/image (3).webp
