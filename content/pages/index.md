@@ -195,4 +195,10 @@ sections:
         textAlign: left
 socialImage: /images/Instagram-Post-1_1-empowering-your-digital-journey-5-2-2025.png
 metaTitle: Digital solutions
+metaDescription: >-
+  In today's rapidly evolving digital landscape, staying ahead requires
+  innovation, efficiency, and a deep understanding of the tools that can drive
+  business growth. Our digital solutions are designed to help your business
+  optimize operations, enhance customer experiences, and boost overall
+  performance through cutting-edge technology.
 ---
