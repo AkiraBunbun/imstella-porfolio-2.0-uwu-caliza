@@ -48,7 +48,7 @@
         "logo": {
             "type": "ImageBlock",
             "url": "/images/image (2) (1).png",
-            "altText": "altText of the image",
+            "altText": "A lotus flower",
             "caption": "Caption of the image",
             "elementId": ""
         }
