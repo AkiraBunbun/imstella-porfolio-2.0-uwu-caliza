@@ -4,10 +4,7 @@ title: 'Instant Key Stroking '
 colors: colors-a
 date: '2023-11-22'
 client: My Awesome Teacher
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: 'With only 3 hours left to '
 featuredImage:
   type: ImageBlock
   url: /images/image (2).webp
