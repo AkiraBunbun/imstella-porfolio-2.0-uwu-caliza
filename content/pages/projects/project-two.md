@@ -5,9 +5,10 @@ colors: colors-a
 date: '2023-07-20'
 client: Open service
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because It took a long time :), but the time spent in this project was worth
-  it.
+  OBS, NVIDIA and even PowerPoint has recording tools, but all of them was so
+  heavy for my old computer or they they required a subscription plan. So I
+  decided to create my own screen recording tool thinking about people with a
+  low quality laptops and no money in their pockets.
 featuredImage:
   type: ImageBlock
   url: /images/image (1).webp
