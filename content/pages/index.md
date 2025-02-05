@@ -194,4 +194,5 @@ sections:
       text:
         textAlign: left
 socialImage: /images/Instagram-Post-1_1-empowering-your-digital-journey-5-2-2025.png
+metaTitle: Digital solutions
 ---
