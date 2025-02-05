@@ -5,9 +5,8 @@ colors: colors-a
 date: '2021-10-15'
 client: Local shop
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  The best way to have free time is doing the work before you should do it,
+  sadly inside of a shop its something not possible, right?. That's wrong
 featuredImage:
   type: ImageBlock
   url: /images/image (3).webp
