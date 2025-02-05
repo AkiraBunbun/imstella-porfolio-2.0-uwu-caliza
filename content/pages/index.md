@@ -84,7 +84,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -193,4 +193,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+socialImage: /images/Instagram-Post-1_1-empowering-your-digital-journey-5-2-2025.png
 ---
