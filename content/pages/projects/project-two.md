@@ -10,7 +10,7 @@ description: >-
   decided to create my own screen recording tool thinking about people with a
   low quality laptops and no money in their pockets, its actually a free project
   and will still being free forever, only this version, the next one will have a
-  cost.
+  price.
 featuredImage:
   type: ImageBlock
   url: /images/image (1).webp
