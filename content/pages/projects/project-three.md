@@ -4,7 +4,7 @@ title: 'Instant Key Stroking '
 colors: colors-a
 date: '2023-11-22'
 client: My Awesome Teacher
-description: 'With only 3 hours left to '
+description: 'With only 10 hours left until I had to expose '
 featuredImage:
   type: ImageBlock
   url: /images/image (2).webp
