@@ -8,7 +8,9 @@ description: >-
   OBS, NVIDIA and even PowerPoint has recording tools, but all of them was so
   heavy for my old computer or they they required a subscription plan. So I
   decided to create my own screen recording tool thinking about people with a
-  low quality laptops and no money in their pockets.
+  low quality laptops and no money in their pockets, its actually a free project
+  and will still being free forever, only this version, the next one will have a
+  cost.
 featuredImage:
   type: ImageBlock
   url: /images/image (1).webp
